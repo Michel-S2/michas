@@ -2,7 +2,7 @@
   "name": "9-exercicio-botao-fujao",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://michel-s2.github.io/Michel-S2/michas",
+  "homepage": "https://michel-s2.github.io/michas",
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",
