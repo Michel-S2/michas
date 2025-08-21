@@ -32,7 +32,7 @@ export const TelaInicial = ({handleSim}) => {
     return (
         <div className="container">
             <div className="painel">
-                <h1>Bora dar um rolê?😔👉👈</h1>
+                <h1>Yasmim, aceita ir no cinema comigo?😔👉👈</h1>
                 <div className="areaButton">
                     <button onClick={handleSim}>Sim</button>
                     <div className="divB">
